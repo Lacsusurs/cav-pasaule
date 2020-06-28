@@ -4,3 +4,4 @@ mani sauc Andris un es kodēju
 Un vēl pievienošu tekstiņu, lai skaidrāk...
 bučiņas ar vajadzētu!
 Un tad vēl dažas!
+un tā es turpinu!
